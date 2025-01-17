@@ -73,5 +73,9 @@ The dashboard includes the following visualizations:
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/1f182c6a-0e82-4a2e-8aa0-cdcccbc1b3d9)
+![image](https://github.com/user-attachments/assets/d2ed2c88-2dd1-4a2d-b3cc-0bfd8e002800)
+
+
 
 
